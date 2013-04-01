@@ -6,3 +6,5 @@ It is a reference for my other javascript repos that assume these markup pattern
 Inspiration comes from Aaron Gustafson's [Learning to love forms](http://www.webdirections.org/resources/aaron-gustafson/) presentation.
 
 A form is a list of questions!
+
+[View the wiki](https://github.com/bboyle/forms-markup/wiki)
